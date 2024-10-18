@@ -1,0 +1,65 @@
+World Meteorological Organization Climate Normals for 1991-2020,,,,,,,,,,,,,,,,
+Single Station Data Sheet For All Climatological Surface Parameters,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Station Header Record,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Country_Name,SURINAME,,,,,,,,,,,,,,,
+Station_Name,NICKERIE,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Latitude,Longitude,Station_Height,,,,,,,,,,,,,
+81202,5|57|23|N,57|02|22|W,2,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO Integrated Global Observing System (WIGOS) Station Identifier (if available),,,,,,,,,,,,,,,,
+0-20000-0-81202,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Principal Climatological Surface Parameters,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+1,Precipitation_Total,mm,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+81202,1,Sum,4,126.7,109.7,103.4,140.0,238.7,237.3,230.7,155.9,64.9,53.1,74.1,152.7,1682.5
+81202,1,NOY,98,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+3,Daily_Maximum_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+81202,3,Mean,1,27.4,27.5,28.8,29.2,29.2,29.3,28.6,30.3,29.8,30.9,29.2,29.2,29.1
+81202,3,NOY,98,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+4,Daily_Minimum_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+81202,4,Mean,1,23.5,23.4,24.6,24.7,24.6,24.4,23.4,24.7,24.1,24.9,23.9,24.4,24.2
+81202,4,NOY,98,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+5,Daily_Mean_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+81202,5,Mean,1,26.0,26.0,27.4,27.6,27.5,27.3,26.7,28.2,27.7,28.7,27.2,27.4,27.3
+81202,5,NOY,98,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Other climatological surface parameters,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+34,Wind_Speed,m/sec,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+81202,34,Mean,1,2.6,2.8,2.8,2.7,2.4,2.1,1.9,2.1,2.3,2.5,2.5,2.4,2.4
+81202,34,NOY,98,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+38,Relative_Humidity,%,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+81202,38,Mean,1,79.6,78.5,78.0,79.5,82.0,82.7,81.4,80.1,78.0,77.9,79.4,81.1,79.9
+81202,38,NOY,98,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0
+,,,,,,,,,,,,,,,,

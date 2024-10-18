@@ -1,0 +1,54 @@
+World Meteorological Organization Climate Normals for 1991-2020,,,,,,,,,,,,,,,,
+Single Station Data Sheet For All Climatological Surface Parameters,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Station Header Record,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Country_Name,PARAGUAY,,,,,,,,,,,,,,,
+Station_Name,AEROPUERTO_GUARANÍ,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Latitude,Longitude,Station_Height,,,,,,,,,,,,,
+86246,25|27|21|S,54|50|19|W,247,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO Integrated Global Observing System (WIGOS) Station Identifier (if available),,,,,,,,,,,,,,,,
+X-XXXXX-X-XXXXX,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Principal Climatological Surface Parameters,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+1,Precipitation_Total,mm,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+86246,1,Sum,4,182.6,179.5,148.8,139.1,167.4,129.3,93.9,80.0,137.6,223.0,177.3,196.9,1855.5
+86246,1,NOY,98,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+3,Daily_Maximum_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+86246,3,Mean,1,32.5,32.0,31.3,28.6,24.4,23.2,23.2,25.9,27.5,29.6,30.7,31.9,28.4
+86246,3,NOY,98,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+4,Daily_Minimum_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+86246,4,Mean,1,21.4,21.2,20.1,17.6,13.9,12.6,11.4,12.8,15.0,17.9,18.7,20.5,16.9
+86246,4,NOY,98,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+5,Daily_Mean_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+86246,5,Mean,1,26.3,25.8,25.0,22.3,18.5,17.3,16.6,18.6,20.5,23.1,24.2,25.7,22.0
+86246,5,NOY,98,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,

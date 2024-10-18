@@ -1,0 +1,44 @@
+World Meteorological Organization Climate Normals for 1991-2020
+Single Station Data Sheet For All Climatological Surface Parameters
+
+Station Header Record
+
+Country_Name,Fiji
+Station_Name,Vunisea
+
+WMO_Number,Latitude,Longitude,Station_Height
+91693,19|03|00|S,178|10|00|E,31
+
+WMO Integrated Global Observing System (WIGOS) Station Identifier (if available)
+0-20000-0-91693
+
+
+Principal Climatological Surface Parameters
+
+
+Parameter_Code,Parameter_Name,Units
+2,Number_of_Days_with_Precipitation_≥_1_mm,count
+
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+91693,2,Count,5,16.3,14.9,17.6,16.5,13.3,11.3,10.1,10.9,10.1,11.0,11.0,14.0,157.0
+91693,2,MinMon,17,5.0,7.8,11.0,10.0,7.0,6.0,6.0,3.0,0.0,5.0,7.0,6.0,
+91693,2,DMinMon,18,2010,1992,1994,1994,1992,1994,2004,2003,2004,1995,2003,1994,
+91693,2,MaxMon,19,25.0,25.2,29.0,21.7,22.0,18.0,15.0,16.0,23.0,19.0,18.2,22.0,
+91693,2,DMaxMon,20,1998,2018,2007,2019,1999,2004,2005,1999,2007,2007,2017,2020,
+91693,2,NOY,98,29,30,29,29,27,26,26,27,25,24,28,29,,
+
+
+Secondary and Other Climatological Surface Parameters (add as needed)
+
+
+Parameter_Code,Parameter_Name,Units
+11,Boundaries_of_quintiles_of_monthly_precipitation,mm
+
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+91693,11,Q0,6,29.6,69.5,134.4,28.2,28.7,33.7,41.5,34.2,0.0,27.3,24.2,44.2,,
+91693,11,Q1,7,159.7,112.2,187.3,164.9,97.0,65.7,76.3,39.7,56.5,65.9,68.9,105.3,,
+91693,11,Q2,8,178.1,185.9,279.3,250.2,144.8,91.6,85.9,75.3,103.4,126.9,107.4,168.7,,
+91693,11,Q3,9,259.2,230.2,303.4,277.1,170.9,143.4,108.0,115.3,154.2,146.1,145.3,228.4,,
+91693,11,Q4,10,314.8,323.5,359.8,394.2,250.9,208.6,135.2,188.5,199.5,205.6,243.0,302.9,,
+91693,11,Q5,11,568.1,474.0,731.0,785.7,375.8,421.3,254.4,369.6,343.9,381.4,294.1,524.2,,
+91693,11,NOY,98,28,29,29,26,26,24,25,26,23,24,24,29,,

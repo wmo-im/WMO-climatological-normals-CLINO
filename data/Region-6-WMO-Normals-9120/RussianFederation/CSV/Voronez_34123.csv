@@ -1,0 +1,88 @@
+"World Meteorological Organization Climate Normals for 1991-2020",,,,,,,,,,,,,,,,
+"Single Station Data Sheet For All Climatological Surface Parameters",,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+"Station Header Record",,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Country_Name,"RUSSIAN FEDERATION (IN EUROPE)",,,,,,,,,,,,,,,
+Station_Name,VORONEZ,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Latitude,Longitude,Station_Height,,,,,,,,,,,,,
+34123,"51|42|  |N","39|13|  |E",147,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+"WMO Integrated Global Observing System (WIGOS) Station Identifier (if available)",,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+"Principal Climatological Surface Parameters",,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+1,Precipitation_Total,mm,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+34123,1,SUM,4,42.1,38.6,38.2,41,48.4,60.6,57.6,51.5,50.5,51.3,43.2,47.9,570.9
+34123,1,NOY,98,30,30,30,30,30,30,30,30,30,29,30,30,30
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+2,Number_of_Days_with_Precipitation_>=_1_mm,count,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+34123,2,Count,5,10,9,8,7,8,9,8,6,7,9,8,9,98
+34123,2,NOY,98,30,30,30,30,30,30,30,30,30,30,30,30,30
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+3,Daily_Maximum_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+34123,3,MEAN,1,-3.4,-2.6,3.6,14.4,21.7,25,27.3,26.5,19.7,11.5,3,-1.9,12.1
+34123,3,NOY,98,30,30,30,30,30,30,30,30,30,30,30,30,30
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+4,Daily_Minimum_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+34123,4,MEAN,1,-8.5,-8.5,-3.5,3.9,9.8,13.7,15.7,14.2,9.2,4.1,-1.9,-6.6,3.5
+34123,4,NOY,98,30,30,30,30,30,30,30,30,30,29,30,30,29
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+5,Daily_Mean_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+34123,5,MEAN,1,-6,-5.7,-0.3,8.7,15.5,19.1,21.1,19.9,14,7.4,0.4,-4.3,7.5
+34123,5,NOY,98,30,30,30,30,30,30,30,30,30,30,30,30,30
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+6,"Mean Sea Level Pressure",hPa,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+34123,6,MEAN,1,1019.2,1019,1017.2,1015.8,1014.5,1012.4,1011.9,1014.1,1016.7,1019.6,1021.5,1020.5,1016.9
+34123,6,NOY,98,30,30,30,30,30,30,30,30,30,29,30,30,29
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+7,Mean_Vapor_Pressure,hPa,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+34123,7,MEAN,1,3.7,3.7,4.6,6.9,10.4,14,16,14.3,10.9,8.2,5.6,4.2,8.5
+34123,7,NOY,98,30,30,30,30,30,30,30,30,30,29,30,30,29
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+"Secondary climatologocal surface parameters",,,,,,,,,,,,,,,,
+,,,," ",,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+10,Mean_Station_Level_Pressure,hPa,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+34123,10,MEAN,1,1000.1,999.8,998.5,997.6,996.9,995,994.6,996.7,999,1001.3,1002.7,1001.4,998.6
+34123,10,NOY,98,30,30,30,30,30,30,30,30,30,29,30,30,29
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+"Other climatologocal surface parameters",,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+38,Relative_Humidity,%,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+34123,38,MEAN,1,83,80,74,62,61,65,66,64,71,77,83,84,73
+34123,38,NOY,98,30,30,30,30,30,30,30,30,29,29,29,29,29

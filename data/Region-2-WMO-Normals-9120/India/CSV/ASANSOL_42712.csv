@@ -1,0 +1,33 @@
+World Meteorological Organization Climate Normals for 1991-2020,,,,,,,,,,,,,,,,
+Single Station Data Sheet For All Climatological Surface Parameters,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Station Header Record,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Country_Name,INDIA,,,,,,,,,,,,,,,
+Station_Name,ASANSOL,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Latitude,Longitude,Station_Height,,,,,,,,,,,,,
+42712,23|41|00|N,87|0|00|E,119,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Secondary and Other Climatological Surface Parameters,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+22,Highest_Value_of_Daily_Maximum_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+42712,22,Max,2,29.6,36.7,41.2,44.3,44.4,43.3,38.6,36.5,36.5,35.8,34,31.4,44.4
+42712,22,MaxDate,15,2017/27,2016/21,2017/31,2016/24,2014/22,2018/24,2019/16,2020/04,2015/08,2015/03,2020/01,2015/02,2014/05/22
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+23,Lowest_Value_of_Daily_Minimum_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+42712,23,Min,2,7.3,8.2,12.3,18.5,19,19.7,21,21.6,20.2,15.4,8,7,7
+42712,23,MinDate,16,2018/06,2014/04,2019/02,2014/12,2014/31,2014/08,2017/30,2014/17,2014/24,2014/20,2014/29,2014/10,2014/12/10
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+24,Highest_Value_of_Daily_Precipitation,mm,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+42712,24,Max,2,51.6,80.8,52.1,56.6,127,174.5,269.7,210.2,269.4,161.1,99.1,29.7,269.7
+42712,24,MaxDate,15,1944/30,1990/19,1998/30,2000/25,1938/29,1957/29,1943/16,1999/24,2000/18,2017/10,1930/20,1929/17,1943/07/16

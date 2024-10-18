@@ -1,0 +1,36 @@
+World Meteorological Organization Climate Normals for 1991-2020,,,,,,,,,,,,,,,,
+Single Station Data Sheet For All Climatological Surface Parameters,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Station Header Record,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Country_Name,INDIA,,,,,,,,,,,,,,,
+Station_Name,ALWAR,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Latitude,Longitude,Station_Height,,,,,,,,,,,,,
+42255,27|30|00|N,76|35|00|E,270,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO Integrated Global Observing System (WIGOS) Station Identifier,,,,,,,,,,,,,,,,
+0-20000-0-42255,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Secondary and Other Climatological Surface Parameters,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+22,Highest_Value_of_Daily_Maximum_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+42255,22,Max,2,29,35,39.9,46.4,46.1,47.3,43.8,41.2,40.1,40.6,35.6,29.7,47.3
+42255,22,MaxDate,15,1969/26,1985/28,1984/30,1958/26,1984/30,1958/04,1968/04,1972/03,1974/16,1957/08,1976/05,1982/08,1958/06/04
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+23,Lowest_Value_of_Daily_Minimum_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+42255,23,Min,2,-0.8,2.4,7.3,11.2,15.7,20.7,20.6,20.1,16.8,12,6.1,1.4,-0.8
+42255,23,MinDate,16,1967/12,1974/07,1979/09,1965/02,1969/02,1974/08,1983/10,1985/23,1972/26,1960/26,1970/29,1961/24,1967/01/12
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+24,Highest_Value_of_Daily_Precipitation,mm,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+42255,24,Max,2,34,23.2,34.6,40,41.1,104,144,188.2,219.6,91.7,24.4,36.4,219.6
+42255,24,MaxDate,15,1983/29,1970/19,2020/05,2018/12,1966/10,2018/29,1962/17,1985/04,1969/10,1956/10,1959/06,1962/06,1969/09/10

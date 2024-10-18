@@ -1,0 +1,34 @@
+World Meteorological Organization Climate Normals for 1991-2020,,,,,,,,,,,,,,,,
+Single Station Data Sheet For All Climatological Surface Parameters,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Station Header Record,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Country_Name,INDIA,,,,,,,,,,,,,,,
+Station_Name,MATHERAN,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Latitude,Longitude,Station_Height,,,,,,,,,,,,,
+43060,18|59|00|N,73|17|00|E,696,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Secondary and Other Climatological Surface Parameters,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+22,Highest_Value_of_Daily_Maximum_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+43060,22,Max,2,31.3,38.5,37.2,37.4,35.7,32.1,27.3,30.9,31.9,32.9,32.9,30.9,38.5
+43060,22,MaxDate,15,1975/30,1979/06,1977/28,1975/02,1978/04,1977/07,1975/25,1978/20,1977/29,1977/20,1977/01,1977/02,1979/02/06
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+23,Lowest_Value_of_Daily_Minimum_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+43060,23,Min,2,9.4,9.9,10.4,13.8,13.6,18,18.8,14.6,17.4,16.7,12.8,10.5,9.4
+43060,23,MinDate,16,1975/24,1978/18,1975/11,1976/03,1976/04,1976/05,1976/18,1977/12,1978/11,1978/16,1975/30,1977/30,1975/01/24
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+24,Highest_Value_of_Daily_Precipitation,mm,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+43060,24,Max,2,0,16.5,1.6,25.6,47.7,347,843,440,362,210,166,21,843
+43060,24,MaxDate,15,,1978/26,1978/11,1978/27,1974/25,2019/29,2005/27,2019/04,2017/20,2009/06,2009/15,2017/06,2005/07/27
+,,,,,,,,,,,,,,,,

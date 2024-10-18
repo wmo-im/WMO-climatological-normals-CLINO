@@ -1,0 +1,68 @@
+World Meteorological Organization Climate Normals for 1991-2020
+Single Station Data Sheet For All Climatological Surface Parameters
+
+Station Header Record
+
+Country_Name,CONGO
+Station_Name,DJAMBALA
+
+WMO_Number,Latitude,Longitude,Station_Height
+64453,02|31|48|S,014|45|58|E,789
+
+WMO Integrated Global Observing System (WIGOS) Station Identifier (if available)
+0-20000-0-64453
+
+
+Principal Climatological Surface Parameters
+
+
+Parameter_Code,Parameter_Name,Units
+1,Precipitation_Total,mm
+
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+64453,1,Sum,4,127.4,152.5,172.3,166.3,144.4,60.0,30.2,43.7,136.5,233.1,193.9,166.6,1626.9
+64453,1,MinMon,17,61.1,33.0,58.8,80.4,28.0,4.5,2.8,0.2,37.8,86.5,81.9,52.9,
+64453,1,DMinMon,18,2018,2019,2014,2005,2011,2005,2017,2007,2017,2012,2007,2014,
+64453,1,MaxMon,19,219.9,351.2,341.6,256.3,314.2,221.3,129.5,102.6,277.9,461.2,331.1,367.0,
+64453,1,DMaxMon,20,2010,2020,2007,2016,1992,2000,2020,2008,2013,1997,1996,2019,
+64453,1,NOY,98,30,30,30,30,30,30,30,30,30,30,30,30,,
+
+
+Parameter_Code,Parameter_Name,Units
+5,Daily_Mean_Temperature,Deg_C
+
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+64453,5,Mean,1,23.2,23.5,23.7,23.8,23.6,22.5,21.7,22.1,22.5,22.8,22.7,22.9,22.9
+64453,5,MinMon,17,22.1,22.5,22.2,22.9,22.7,21.5,20.7,21.0,21.3,21.8,20.9,22.0,
+64453,5,DMinMon,18,1991,1998,2003,1994,1994,1992,1992,1998,1997,1994,2002,2002,
+64453,5,MaxMon,19,24.6,25.5,24.7,25.5,24.6,23.4,22.6,23.6,23.6,25.3,25.4,26.0,
+64453,5,DMaxMon,20,2020,2013,2018,2018,2020,2017,2015,2020,2016,2005,2005,2005,
+64453,5,NOY,98,30,30,30,30,30,30,30,30,30,30,30,30,,
+
+
+Parameter_Code,Parameter_Name,Units
+7,Mean_Vapor_Pressure,hPa
+
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+64453,7,Mean,1,23.5,23.5,23.7,24.0,24.2,22.5,21.1,20.7,22.0,23.3,23.4,23.5,22.9
+64453,7,MinMon,17,22.2,22.5,22.6,23.1,23.5,21.6,19.5,19.2,21.0,22.4,21.2,21.4,
+64453,7,DMinMon,18,1992,2012,2013,2015,1997,1994,1996,2001,1997,1992,1991,2001,
+64453,7,MaxMon,19,24.9,25.9,25.6,25.6,25.5,24.3,24.0,22.5,23.7,24.0,24.3,24.8,
+64453,7,DMaxMon,20,2020,2020,2020,2019,2019,2017,2009,2019,2019,2018,2019,2015,
+64453,7,NOY,98,30,30,30,30,30,30,30,30,30,30,30,30,,
+
+
+Secondary and Other Climatological Surface Parameters (add as needed)
+
+
+Parameter_Code,Parameter_Name,Units
+11,Boundaries_of_quintiles_of_monthly_precipitation,mm
+
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+64453,11,Q0,6,61.1,33.0,58.8,80.4,28.0,4.5,2.8,0.2,37.8,86.5,81.9,52.9,,
+64453,11,Q1,7,100.4,89.5,125.7,120.6,91.6,24.5,7.9,12.2,85.2,154.5,144.7,119.8,,
+64453,11,Q2,8,111.8,118.3,155.5,158.7,120.5,38.8,21.9,34.6,114.9,215.9,181.6,136.5,,
+64453,11,Q3,9,129.1,141.4,175.0,180.2,153.8,62.9,30.3,52.4,145.0,236.1,204.4,164.2,,
+64453,11,Q4,10,163.4,222.9,229.1,191.7,181.4,78.4,45.7,77.1,179.8,291.7,231.0,201.8,,
+64453,11,Q5,11,219.9,351.2,341.6,256.3,314.2,221.3,129.5,102.6,277.9,461.2,331.1,367.0,,
+64453,11,NOY,98,30,30,30,30,30,30,30,30,30,30,30,30,,

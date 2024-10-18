@@ -1,0 +1,68 @@
+World Meteorological Organization Climate Normals for 1991-2020,,,,,,,,,,,,,,,
+Single Station Data Sheet For All Climatological Surface Parameters,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Station Header Record,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Country_Name, Egypt,,,,,,,,,,,,,,
+STATION NAME,SALLOUM (N),,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+WMO_Number,Latitude,Longitude,Station_Height,,,,,,,,,,,,
+62305,31 34,25 18, ,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+WMO Integrated Global Observing System (WIGOS) Station Identifier (if available),,,,,,,,,,,,,,,
+X-XXXXX-X-XXXXX,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Principal Climatological Surface Parameters,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,Calculation_Name,Calculation_code,,,,,,,,,,,
+1,Precipitation_Total,mm,Sum,4,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_code,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+62305,1,Sum,4, , , , , , , ,0.07,0.81,8.57,7.08,16.35
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,Calculation_Name,Calculation_code,,,,,,,,,,,
+2,Number_of_Days_with_Precipitation_>=_1_mm ,count,Count,5,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_code,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+62305,2,Count,5, , , , , , , ,0.04,0.21,1.08,1.17,2.38
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,Calculation_Name,Calculation_code,,,,,,,,,,,
+3,Daily_Maximum_Temperature,Deg_C,Mean,1,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_code,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+62305,3,Mean,1, , , , , , , ,31.57,30.15,26.71,22.75,18.72
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,Calculation_Name,Calculation_code,,,,,,,,,,,
+4,Daily_Minimum_Temperature,Deg_C,Mean,1,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_code,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+62305,4,Mean,1, , , , , , , ,21.33,20.07,16.91,13.11,9.44
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,Calculation_Name,Calculation_code,,,,,,,,,,,
+5,Daily_Mean_Temperature,Deg_C,Mean,1,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_code,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+62305,5,Mean,1, , , , , , , ,26,24.62,21.51,17.58,13.63
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,Calculation_Name,Calculation_code,,,,,,,,,,,
+6,Mean Sea Level Pressure,hPa,Mean,1,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_code,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+62305,6,Mean,1, , , , , , , ,1011.34,1014.15,1016.92,1018.67,1020.14

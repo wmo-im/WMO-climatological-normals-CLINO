@@ -1,0 +1,56 @@
+World Meteorological Organization Climate Normals for 1991-2020
+Single Station Data Sheet For All Climatological Surface Parameters
+
+Station Header Record
+
+Country_Name,CONGO
+Station_Name,DOLISIE
+
+WMO_Number,Latitude,Longitude,Station_Height
+64401,04|01|12|S,012|42|00|E,331
+
+WMO Integrated Global Observing System (WIGOS) Station Identifier (if available)
+0-20000-0-64401
+
+
+Principal Climatological Surface Parameters
+
+
+Parameter_Code,Parameter_Name,Units
+1,Precipitation_Total,mm
+
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+64401,1,Sum,4,146.5,152.3,181.7,179.9,99.3,6.0,3.5,6.0,16.0,103.7,221.8,189.2,1305.9
+64401,1,MinMon,17,81.7,36.1,71.6,67.0,3.9,0.0,0.0,0.0,0.0,3.6,71.9,24.3,
+64401,1,DMinMon,18,2016,1994,2001,2015,1993,1991,1991,1992,1992,2015,2001,1996,
+64401,1,MaxMon,19,290.9,291.2,324.0,334.6,263.7,72.3,52.5,78.2,143.2,267.8,339.7,351.2,
+64401,1,DMaxMon,20,1996,2016,2019,2017,2007,1999,1999,1999,1999,1994,2020,2004,
+64401,1,NOY,98,30,30,30,30,30,30,30,30,30,30,30,30,,
+
+
+Parameter_Code,Parameter_Name,Units
+5,Daily_Mean_Temperature,Deg_C
+
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+64401,5,Mean,1,25.8,26.1,26.4,26.3,25.7,23.7,22.7,22.7,24.0,25.4,25.7,25.4,25.0
+64401,5,MinMon,17,24.9,25.1,25.6,25.4,24.5,22.1,20.8,21.4,22.8,23.9,24.6,22.6,
+64401,5,DMinMon,18,1991,2012,1993,1995,1997,1992,1992,1992,1992,1991,1992,1997,
+64401,5,MaxMon,19,26.9,27.2,27.6,27.9,27.8,25.8,28.9,24.0,24.9,28.6,27.8,26.7,
+64401,5,DMaxMon,20,2002,2001,2002,2002,2002,2000,2018,2002,2002,2018,2003,2002,
+64401,5,NOY,98,30,30,30,30,30,30,30,30,30,30,30,30,,
+
+
+Secondary and Other Climatological Surface Parameters (add as needed)
+
+
+Parameter_Code,Parameter_Name,Units
+11,Boundaries_of_quintiles_of_monthly_precipitation,mm
+
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+64401,11,Q0,6,81.7,36.1,71.6,67.0,3.9,0.0,0.0,0.0,0.0,3.6,71.9,24.3,,
+64401,11,Q1,7,103.0,93.4,122.9,116.7,32.4,0.0,0.0,0.0,0.0,44.2,186.2,132.7,,
+64401,11,Q2,8,118.9,139.2,158.3,161.4,85.7,0.0,0.0,0.0,0.5,74.4,202.1,173.2,,
+64401,11,Q3,9,146.8,165.5,189.3,190.6,113.8,0.0,0.0,0.0,5.2,109.1,239.1,197.8,,
+64401,11,Q4,10,191.6,214.4,239.2,237.8,150.6,0.7,0.0,0.5,19.3,170.1,259.7,238.0,,
+64401,11,Q5,11,290.9,291.2,324.0,334.6,263.7,72.3,52.5,78.2,143.2,267.8,339.7,351.2,,
+64401,11,NOY,98,30,30,30,30,30,30,30,30,30,30,30,30,,

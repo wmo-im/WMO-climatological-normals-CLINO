@@ -1,0 +1,56 @@
+World Meteorological Organization Climate Normals for 1991-2020
+Single Station Data Sheet For All Climatological Surface Parameters
+
+Station Header Record
+
+Country_Name,CONGO
+Station_Name,MPOUYA
+
+WMO_Number,Latitude,Longitude,Station_Height
+64452,02|36|58|S,016|12|58|E,312
+
+WMO Integrated Global Observing System (WIGOS) Station Identifier (if available)
+0-20000-0-64452
+
+
+Principal Climatological Surface Parameters
+
+
+Parameter_Code,Parameter_Name,Units
+1,Precipitation_Total,mm
+
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+64452,1,Sum,4,136.8,150.3,147.8,185.1,142.0,29.5,24.8,43.8,106.3,181.6,218.1,162.9,1529.0
+64452,1,MinMon,17,40.6,52.2,22.1,50.0,19.9,0.0,0.0,0.1,27.2,28.3,94.9,6.7,
+64452,1,DMinMon,18,2020,1994,2005,2014,2013,2008,1992,2010,2001,2002,2002,1991,
+64452,1,MaxMon,19,242.5,292.5,270.7,401.0,260.0,125.4,94.7,159.6,211.9,382.9,396.2,373.8,
+64452,1,DMaxMon,20,1991,2020,2002,1991,1996,2016,2016,2016,2020,1994,2020,2009,
+64452,1,NOY,98,30,30,30,30,30,30,30,30,30,30,30,30,,
+
+
+Parameter_Code,Parameter_Name,Units
+5,Daily_Mean_Temperature,Deg_C
+
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+64452,5,Mean,1,26.1,26.6,26.8,26.8,26.6,25.7,25.0,25.9,26.2,26.1,25.9,26.0,26.1
+64452,5,MinMon,17,24.8,25.2,25.0,24.9,24.9,23.8,10.7,23.4,19.4,23.6,23.5,24.5,
+64452,5,DMinMon,18,1998,1995,2001,1996,2017,2017,2012,2017,2012,2017,2017,2000,
+64452,5,MaxMon,19,27.7,27.9,28.4,28.4,28.7,27.8,26.8,27.6,32.3,32.3,32.7,32.3,
+64452,5,DMaxMon,20,2005,2005,2006,2007,2002,2002,2005,2005,2019,2019,2019,2019,
+64452,5,NOY,98,30,30,30,30,30,30,30,30,30,30,30,30,,
+
+
+Secondary and Other Climatological Surface Parameters (add as needed)
+
+
+Parameter_Code,Parameter_Name,Units
+11,Boundaries_of_quintiles_of_monthly_precipitation,mm
+
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+64452,11,Q0,6,40.6,52.2,22.1,50.0,19.9,0.0,0.0,0.1,27.2,28.3,94.9,6.7,,
+64452,11,Q1,7,94.4,109.7,93.8,101.8,96.2,1.9,1.5,7.3,56.9,128.8,177.5,128.1,,
+64452,11,Q2,8,110.5,120.2,130.6,186.8,134.4,12.2,9.1,21.1,91.5,164.4,194.2,138.3,,
+64452,11,Q3,9,151.5,147.0,162.5,206.1,154.0,26.1,24.9,45.4,127.7,199.7,206.1,156.4,,
+64452,11,Q4,10,187.1,201.8,188.4,239.9,183.4,61.3,52.7,78.7,147.5,221.2,269.5,194.8,,
+64452,11,Q5,11,242.5,292.5,270.7,401.0,260.0,125.4,94.7,159.6,211.9,382.9,396.2,373.8,,
+64452,11,NOY,98,30,30,30,30,30,30,30,30,30,30,30,30,,

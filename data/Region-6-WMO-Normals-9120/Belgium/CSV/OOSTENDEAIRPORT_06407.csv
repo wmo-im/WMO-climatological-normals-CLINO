@@ -1,0 +1,90 @@
+World Meteorological Organization Climate Normals for 1991-2020
+Single Station Data Sheet For All Climatological Surface Parameters
+,,,,,,,,,,
+Station Header Record
+,,,,,,,,,,
+Country_Name,BELGIUM
+Station_Name,OOSTENDE (AIRPORT)
+,,,,,,,,,,
+WMO_Number,Latitude,Longitude,Station_Height
+06407,51|12|01|N,002|53|14|E,    3,
+,,,,,,,,,,
+WMO Integrated Global Observing System (WIGOS) Station Identifier (if available)
+0-20000-0-06407
+,,,,,,,,,,
+,,,,,,,,,,
+Principal Climatological Surface Parameters
+,,,,,,,,,,
+,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units
+1,Precipitation_Total,mm
+,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+06407,1,Sum,4,61.5,55.6,46.3,40.6,54,62.6,68.1,81.7,73.4,80.1,88.6,85.6,798.1
+06407,1,NOY,98,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units
+2,Number_of_Days_with_Precipitation_>=_1_mm,count
+,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+06407,2,Count,5,11.8,10.3,9.3,8.3,9,9,9.2,9.6,9.7,12,13.6,13.6,125.4
+06407,2,NOY,98,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units
+3,Daily_Maximum_Temperature,Deg_C
+,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+06407,3,Mean,1,6.7,7.4,10,13.3,16.3,19.1,21.3,21.7,19.1,15,10.4,7.3,14
+06407,3,NOY,98,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units
+4,Daily_Minimum_Temperature,Deg_C
+,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+06407,4,Mean,1,1.4,1.2,2.8,4.8,8.5,11.5,13.3,13.1,10.7,7.7,4.7,2.2,6.8
+06407,4,NOY,98,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units
+5,Daily_Mean_Temperature,Deg_C
+,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+06407,5,Mean,1,4.1,4.3,6.4,9,12.4,15.3,17.3,17.4,14.9,11.4,7.6,4.7,10.4
+06407,5,NOY,98,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units
+6,Mean Sea Level Pressure,hPa
+,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+06407,6,Mean,1,1017.1,1016.9,1016.4,1015,1016.5,1016.9,1016.1,1015.9,1016.6,1014.9,1014,1016.1,1016
+06407,6,NOY,98,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units
+7,Mean_Vapor_Pressure,hPa
+,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+06407,7,Mean,1,7.2,7.1,7.9,9,11.1,13.5,15.4,15.5,13.6,11.4,9.2,7.7,10.7
+06407,7,NOY,98,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units
+8,Total_Number_of_Hours_of_Sunshine,hours
+,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+06407,8,Sum,4,65.5,86.6,143.4,205.1,229.8,232.5,238.7,223.7,171.8,120.6,67.3,53.4,1838.4
+06407,8,NOY,98,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

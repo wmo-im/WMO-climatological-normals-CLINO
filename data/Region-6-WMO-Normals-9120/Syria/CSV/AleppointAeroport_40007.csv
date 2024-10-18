@@ -1,0 +1,101 @@
+World Meteorological Organization Climate Normals for 1991-2020,,,,,,,,,,,,,,,,
+Single Station Data Sheet For All Climatological Surface Parameters,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Station Header Record,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Country_Name,Syrian Arab Republic,,,,,,,,,,,,,,,
+Station_Name,ALEPPO INT. AEROPORT,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Latitude,Longitude,Station_Height,,,,,,,,,,,,,
+40007,36|10|30|N,37|14|25|E,393,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO Integrated Global Observing System (WIGOS) Station Identifier (if available),,,,,,,,,,,,,,,,
+0-20000-0-40007,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Principal Climatological Surface Parameters,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+1,Precipitation_Total,mm,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+40007,1,Sum,4,57.5,47.8,42.4,27.8,16.0,1.7,0.0,0.1,3.5,23.0,35.6,58.3,312.6
+40007,,NOY,98,29,30,30,30,30,30,29,30,30,30,30,30,28
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+2,Number_of_Days_with_Precipitation_>=_1_mm,count,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+40007,2,Count,5,9.0,7.6,6.8,4.3,2.7,0.3,0.0,0.0,0.5,3.4,4.9,8.0,47.4
+40007,,NOY,98,30,30,30,30,30,30,29,30,30,30,30,30,29
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+3,Daily_Maximum_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+40007,3,Mean,1,10.7,12.9,17.6,23.1,29.4,34.2,36.8,36.8,33.5,27.6,18.8,12.2,24.5
+40007,,NOY,98,30,30,30,30,30,30,29,30,30,30,30,30,29
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+4,Daily_Minimum_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+40007,4,Mean,1,2.4,3.2,6.1,10.0,15.0,19.8,22.8,22.8,19.4,14.2,7.3,3.7,12.3
+40007,,NOY,98,29,30,30,30,30,30,29,30,30,30,30,30,28
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+6,Mean Sea Level Pressure,hPa,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+40007,6,Mean,1,1018.8,1016.6,1014.2,1011.4,1009.1,1005.1,1001.7,1003.0,1007.7,1013.1,1017.2,1019.6,1011.5
+40007,,NOY,98,25,25,25,25,25,25,24,25,25,25,25,25,24
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+7,Mean_Vapor_Pressure,hPa,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+40007,7,Mean,1,7.7,7.8,8.8,10.4,11.9,13.6,16.7,17.8,15.3,12.3,9.5,8.3,11.7
+40007,,NOY,98,25,25,25,25,25,25,24,25,25,25,25,25,24
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Secondary Climatological Surface Parameters (add as needed),,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+22,Highest_Value_of_Daily_Maximum_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+40007,22,Max,2,20.5,25.4,29.8,38.6,41.0,44.0,45.7,44.2,44.0,37.0,28.1,24.5,45.7
+40007,22,MaxDate,15,2010/02,2016/19,2008/24,2008/24,2019/30,2012/16,1998/23,2010/01,2020/04,2002/01,1992/01,2010/04,1998/07/23
+,,NOY,98,30,30,30,30,30,30,29,30,30,30,30,30,29
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+23,Lowest_Value_of_Daily_Minimum_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+40007,23,Min,3,-7.2,-8.3,-3.6,-1.9,7.6,10.7,17.3,15.3,9.4,1.1,-3.6,-6.0,-8.3
+40007,23,MinDate,16,2008/19,1997/06,1997/20,1997/11,1995/08,1991/01,1992/11,2000/29,2009/30,2003/30,2001/23,2013/10,1997/02/06
+,,NOY,98,30,30,30,30,30,30,29,30,30,30,30,30,29
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+24,Highest_Value_of_Daily_Precipitation,mm,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+40007,24,Max,2,38.8,31.8,41.8,40.7,36.7,11.2,0.0,1.1,26.0,48.6,29.4,46.9,48.6
+40007,24,MaxDate,15,2008/28,2010/28,1991/22,1997/02,2013/11,2012/23,,2008/24,2008/27,2015/26,2004/21,2018/02,2015/10/26
+,,NOY,98,30,30,30,30,30,30,29,30,30,30,30,30,29
+,,,,,,,,,,,,,,,,

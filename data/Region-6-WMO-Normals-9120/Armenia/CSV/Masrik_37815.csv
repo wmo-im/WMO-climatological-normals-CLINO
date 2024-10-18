@@ -1,0 +1,251 @@
+"World Meteorological Organization Climate Normals for 1991-2020",,,,,,,,,,,,,,,,
+"Single Station Data Sheet For All Climatological Surface Parameters",,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+"Station Header Record",,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Country_Name,Armenia,,,,,,,,,,,,,,,
+Station_Name,Masrik,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Latitude,Longitude,Station_Height,,,,,,,,,,,,,
+37815,40|12|27N,45|45|52E,1939.114,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+"WMO Integrated Global Observing System (WIGOS) Station Identifier (if available)",,,,,,,,,,,,,,,,
+X-XXXXX-X-XXXXX,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+"Principal Climatological Surface Parameters",,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+1,Precipitation_Total,mm,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+37815, 1,Sum    , 4,   19.7,   21.1,   33.8,   47.4,   64.0,   73.6,   45.4,   35.7,   37.2,   43.1,   30.3,   24.9,  476.2
+37815,1,NOY,98,30,30,29,30,30,30,30,30,30,30,30,30,29
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+2,Number_of_Days_with_Precipitation_>=_1_mm,count,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+37815, 2,Count  , 5,    5.0,    5.1,    7.0,    8.7,   12.1,    9.8,    6.5,    5.4,    5.2,    6.5,    5.4,    5.3,   82.1
+37815,2,NOY,98,30,30,29,30,30,30,30,30,30,30,30,30,29
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+3,Daily_Maximum_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+37815, 3,Mean   , 1,    5.2,    6.3,   12.3,   18.5,   22.8,   26.8,   29.5,   30.2,   27.2,   21.4,   13.8,    8.3,   18.5
+37815,3,NOY,98,30,29,29,30,30,30,30,30,30,30,30,30,30
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+4,Daily_Minimum_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+37815, 4,Mean   , 1,  -24.7,  -24.3,  -18.4,  -10.2,   -2.2,    1.9,    5.2,    5.8,    0.4,   -4.4,  -14.3,  -20.8,   -8.8
+37815,4,NOY,98,30,29,29,30,30,30,30,30,30,30,30,30,30
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+5,Daily_Mean_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+37815, 5,Mean   , 1,   -8.3,   -7.2,   -1.4,    4.9,    9.5,   13.9,   16.9,   17.2,   13.5,    7.9,    0.5,   -5.4,    5.2
+37815,5,NOY,98,30,29,28,29,30,30,29,29,30,30,30,30,27
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+6,"Mean Sea Level Pressure",hPa,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+37815, 6,Mean   , 1,       ,       ,       ,       ,       ,       ,       ,       ,       ,       ,       ,       ,       
+37815,6,NOY,98,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+7,Mean_Vapor_Pressure,hPa,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+37815, 7,Mean   , 1,    2.5,    2.7,    3.9,    5.6,    7.6,    9.9,   11.7,   11.4,    9.4,    6.9,    4.5,    3.2,    6.6
+37815,7,NOY,98,29,29,28,29,29,29,29,29,29,28,28,28,29
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+8,Total_Number_of_Hours_of_Sunshine,hours,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+37815, 8,Sum    , 4,       ,       ,       ,       ,       ,       ,       ,       ,       ,       ,       ,       ,       
+37815,8,NOY,98,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+"Secondary and Other Climatological Surface Parameters (add as needed)",,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+10,"Mean value of station-level pressure ",hPa,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+37815,10,Mean   , 1,       ,       ,       ,       ,       ,       ,       ,       ,       ,       ,       ,       ,       
+37815,10,NOY,98,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+11,Boundaries_of_quintiles_of_monthly_precipitation,mm,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+37815,11,Q0     , 6,    5.5,    0.8,    5.2,    9.9,   29.4,   15.1,   10.2,    0.0,    0.0,    0.6,    0.3,    0.0,       
+37815,11,Q1,7,11,13.86,22.16,31.32,45.1,42.36,27.14,18.62,9.140000000000004,20.300000000000004,12.440000000000001,9.600000000000003,
+37815,11,Q2,8,13.940000000000001,17.700000000000003,27.96,37.400000000000006,55.260000000000005,57.860000000000014,42.06,24.340000000000003,21.400000000000002,30.26,24.4,20.92,
+37815,11,Q3,9,22.099999999999998,22.08,32.4,51.3,69.48,72.88,47.699999999999996,31.939999999999998,36.59999999999999,43.99999999999999,32.42,26.14,
+37815,11,Q4,10,28.919999999999998,30.84,48.82000000000001,57.52000000000002,83.58,108.74000000000002,62.160000000000004,49.220000000000006,67.10000000000001,62.900000000000006,49.2,32.82000000000002,
+37815,11,Q5,11,40.9,41.7,78.4,106.1,114,146.1,95.2,133.9,160.8,122.2,83.8,65.3,
+37815,11,NOY,98,30,30,30,30,30,30,30,30,30,30,30,30,0
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+12,"Mean number of days with maximum temperature ≥25, 30, 35, 40 °C",count,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+37815,12,25     , 5,    0.0,    0.0,    0.0,    0.0,    0.2,    3.7,   11.7,   15.4,    4.9,    0.0,    0.0,    0.0,   35.9
+37815,12,30,5,0,0,0,0,0,0.13333333333333333,1.4,2.066666666666667,0.2,0,0,0,3.8000000000000003
+37815,12,35,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+37815,12,40,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+37815,12,NOY,98,30,29,29,30,30,30,30,30,30,30,30,30,30
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+14,Number_of_Days_with_Maximum_Temperature_<_0_Deg_C,count,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+37815,14,count  , 5,   16.9,   12.0,    3.9,    0.2,    0.0,    0.0,    0.0,    0.0,    0.0,    0.0,    2.4,   10.5,   46.0
+37815,14,NOY,98,30,29,29,30,30,30,30,30,30,30,30,30,30
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+15,Number_of_Days_with_Minimum_Temperature_<_0_Deg_C,count,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+37815,15,count  , 5,   31.0,   27.9,   28.7,   18.5,    3.8,    0.2,    0.0,    0.0,    0.8,   10.9,   26.0,   29.8,  177.6
+37815,15,NOY,98,30,30,30,30,30,30,30,30,30,30,30,30,30
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+16,"Mean number of days with daily precipitation ≥ 5, 10, 50, 100, 150 mm",count,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+37815,16,5      , 5,    1.2,    1.2,    2.2,    3.0,    4.4,    4.7,    2.9,    2.3,    2.4,    2.9,    1.9,    1.5,   30.7
+37815,16,10,5,0.2,0.26666666666666666,0.5666666666666667,1.0333333333333334,1.4666666666666666,2.433333333333333,1.6,1.1333333333333333,1.2,1.0333333333333334,0.8,0.6333333333333333,12.4
+37815,16,50,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+37815,16,100,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+37815,16,150,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+37815,16,NOY,98,30,30,30,30,30,30,30,30,30,30,30,30,30
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+17,"Mean_Number_of_Days_with_Snow_Depth_ >_ 0, 1, 10, 50_cm",count,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+37815,17,0      , 5,   28.4,   25.4,   19.0,    4.9,    0.0,    0.0,    0.0,    0.0,    0.0,    0.0,    0.0,   22.5,  100.2
+37815,17,1,5,28.321428571428573,25.107142857142858,18.333333333333332,4.416666666666667,0,0,0,0,0,0,0,21.884615384615383,98.1
+37815,17,10,5,18.607142857142858,20.214285714285715,12.703703703703704,1.75,0,0,0,0,0,0,0,12.615384615384615,65.9
+37815,17,50,5,1.1071428571428572,1.0714285714285714,1.2592592592592593,0,0,0,0,0,0,0,0,0.46153846153846156,3.9
+37815,17,NOY,98,28,28,27,24,28,28,28,28,28,28,28,26,27
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+18,"Mean_Number_of_Days_with_Wind_Speed_ ≥ _10, 20, 30_m/s",count,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+37815,18,10     , 5,    2.4,    2.8,    3.8,    3.6,    2.8,    4.0,    5.3,    5.6,    3.0,    1.3,    1.7,    1.8,   38.0
+37815,18,20,5,0.13793103448275862,0,0.21428571428571427,0.034482758620689655,0.06896551724137931,0,0.034482758620689655,0,0,0,0.07142857142857142,0,0.6
+37815,18,30,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+37815,18,NOY,98,29,29,28,29,29,29,29,29,29,29,28,28,29
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+20,Highest_Value_of_Mean_Daily_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+37815,20,Max    , 2,    2.4,    3.9,   10.9,   16.9,   16.8,   21.6,   24.8,   24.9,   22.2,   15.0,    9.6,   10.4,   14.9
+37815,20,NOY,98,30,29,28,29,30,30,29,29,30,30,30,30,29
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+21,Lowest_Value_of_Mean_Daily_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+37815,21,Min    , 3,  -21.3,  -22.4,  -17.1,  -10.9,   -3.5,    5.1,    5.5,   10.5,    0.7,   -3.6,  -15.1,  -18.3,   -7.5
+37815,21,NOY,98,30,29,28,29,30,30,29,29,30,30,30,30,28
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+22,Highest_Value_of_Daily_Maximum_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+37815,22,Max    , 2,    9.8,   10.5,   18.6,   25.0,   29.5,   31.3,   35.2,   34.5,   31.5,   25.0,   19.2,   15.6,   35.2
+37815,22,NOY,98,30,29,29,30,30,30,30,30,30,30,30,30,30
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+23,Lowest_Value_of_Daily_Minimum_Temperature,Deg_C,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+37815,23,Min    , 3,  -31.0,  -31.2,  -27.2,  -23.3,   -7.9,   -1.8,    0.0,    1.4,   -6.5,  -10.0,  -24.6,  -26.8,  -31.2
+37815,23,NOY,98,30,29,29,30,30,30,30,30,30,30,30,30,30
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+24,Highest_Value_of_Daily_Precipitation,mm,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+37815,24,Max    , 2,   16.5,   21.2,   30.5,   36.6,   29.5,   42.0,   39.4,   37.7,   42.7,   34.9,   40.7,   33.9,   42.7
+37815,24,NOY,98,30,30,29,30,30,30,30,30,30,30,30,30,29
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+25,Highest_Wind_Gust,m/s,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+37815,25,Max    , 2,   32.0,   29.0,   32.0,   28.0,   32.0,   28.0,   26.0,   35.0,   27.0,   25.0,   26.0,   31.0,   35.0
+37815,25,NOY,98,29,29,28,29,29,29,29,29,29,29,29,29,28
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+27,Mean_Number_of_Days_with_Hail,count,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+37815,27,count  , 5,    0.0,    0.0,    0.0,    0.1,    0.0,    0.4,    0.0,    0.2,    0.1,    0.0,    0.0,    0.0,    0.9
+37815,27,NOY,98,24,24,24,24,24,24,24,24,24,24,24,24,24
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+34,"Wind speed",m/s,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+37815,34,Mean   , 1,    2.7,    2.8,    3.3,    3.4,    3.4,    3.9,    4.5,    4.5,    3.5,    2.9,    2.9,    2.7,    3.4
+37815,34,NOY,98,30,29,29,29,30,30,30,29,30,29,30,29,27
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Parameter_Code,Parameter_Name,Units,,,,,,,,,,,,,,
+38,"Relative humidity",%,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Annual
+37815,38,Mean   , 1,   71.8,   70.7,   68.5,   65.9,   65.4,   64.4,   62.8,   61.5,   62.9,   66.6,   70.2,   72.3,   66.9
+37815,38,NOY,98,30,30,30,30,30,30,30,29,30,30,30,30,29

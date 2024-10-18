@@ -1,0 +1,48 @@
+World Meteorogical Organization Climate Normals for 1991-2020
+Single Station Data Sheet For All Climatological Surface Parameters
+ 
+Station Header Record
+ 
+Country_Name,Germany
+Station_name,Berlin-Alexanderplatz
+ 
+WMO_Number,Latitude,Longitude,Station_Height
+10389,52|31|11|N,13|24|20|E,35.8
+ 
+WMO Integrated Global Observing System (WIGOS) Station Identifier
+!! not available !! 
+ 
+Principal Climatological Surface Parameters
+ 
+Parameter_Code,Parameter_Name,Units 
+6,Mean_Sea_Level_Pressure,hPa
+ 
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Year
+10389,6,Mean,1,1017.6,1016.1,1016.3,1015,1015.8,1015.5,1014.7,1015.1,1016.1,1016.3,1014.9,1016.6,1015.9
+10389,6,NOY,98,20,19,20,19,20,21,21,20,19,18,19,19,21
+ 
+ 
+Parameter_Code,Parameter_Name,Units 
+10,Mean_Station_Level_Pressure,hPa
+ 
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Year
+10389,10,Mean,1,1005.8,1007,1006.3,1004.2,1005.7,1006.1,1004.7,1005,1006.4,1006.5,1003.9,1005.9,1005.2
+10389,10,NOY,98,18,17,18,21,17,18,17,18,16,16,16,17,6
+ 
+ 
+Parameter_Code,Parameter_Name,Units 
+22,Highest_Value_of_Daily_Maximum_Temperature,Deg_C
+ 
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Year
+10389,22,Max,2,10.7,12.6,17.4,24.4,29.3,31.5,32.8,32,26.6,21.1,14.1,10.6,33.7
+10389,22,NOY,98,20,17,17,19,19,17,18,16,15,16,16,16,10
+ 
+ 
+Parameter_Code,Parameter_Name,Units 
+23,Lowest_Value_of_Daily_Minimum_Temperature,Deg_C
+ 
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Year
+10389,23,Min,3,5.8,6.5,8.9,13.5,16.7,19.6,21,20.2,16.5,13.4,9.6,6.2,21.3
+10389,23,NOY,98,20,17,17,19,19,17,18,16,15,16,16,16,10
+ 
+ 

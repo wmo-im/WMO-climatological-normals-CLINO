@@ -1,0 +1,40 @@
+World Meteorogical Organization Climate Normals for 1991-2020
+Single Station Data Sheet For All Climatological Surface Parameters
+ 
+Station Header Record
+ 
+Country_Name,Germany
+Station_name,Weimar
+ 
+WMO_Number,Latitude,Longitude,Station_Height
+10555,50|58|30|N,11|18|28|E,264
+ 
+WMO Integrated Global Observing System (WIGOS) Station Identifier
+!! not available !! 
+ 
+Principal Climatological Surface Parameters
+ 
+Parameter_Code,Parameter_Name,Units 
+5,Daily_Mean_Temperature,Deg_C
+ 
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Year
+10555,5,Mean,1,.7,1.4,4.6,8.7,13.2,16,18.1,17.8,13.7,8.9,4.4,1.1,9
+10555,5,NOY,98,16,17,17,17,17,16,16,16,15,15,16,16,13
+ 
+ 
+Parameter_Code,Parameter_Name,Units 
+10,Mean_Station_Level_Pressure,hPa
+ 
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Year
+10555,10,Mean,1,986.5,984.1,983.3,981.3,983.6,984.1,983.7,984,984,983.3,982.9,984.2,983.8
+10555,10,NOY,98,15,15,16,16,15,17,16,15,15,15,15,16,12
+ 
+ 
+Parameter_Code,Parameter_Name,Units 
+24,Highest_Value_of_Daily_Precipitation,mm
+ 
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Year
+10555,24,Max,2,7.3,8.2,10.6,12.4,16.4,16.3,29.9,19.4,12.9,12.8,14.7,10.4,36.5
+10555,24,NOY,98,17,15,17,17,16,16,16,16,16,16,16,16,11
+ 
+ 

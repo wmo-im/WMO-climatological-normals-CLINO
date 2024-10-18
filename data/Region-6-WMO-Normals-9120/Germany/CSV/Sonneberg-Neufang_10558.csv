@@ -1,0 +1,64 @@
+World Meteorogical Organization Climate Normals for 1991-2020
+Single Station Data Sheet For All Climatological Surface Parameters
+ 
+Station Header Record
+ 
+Country_Name,Germany
+Station_name,Sonneberg-Neufang
+ 
+WMO_Number,Latitude,Longitude,Station_Height
+10558,50|22|29|N,11|10|58|E,626
+ 
+WMO Integrated Global Observing System (WIGOS) Station Identifier
+!! not available !! 
+ 
+Principal Climatological Surface Parameters
+ 
+Parameter_Code,Parameter_Name,Units 
+5,Daily_Mean_Temperature,Deg_C
+ 
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Year
+10558,5,Mean,1,-1.6,-.5,2.4,6.9,11.5,14.5,16.4,16.2,12.1,7.5,2,-1.1,7.1
+10558,5,NOY,98,17,15,15,17,17,17,16,16,16,16,15,16,13
+ 
+ 
+Parameter_Code,Parameter_Name,Units 
+6,Mean_Sea_Level_Pressure,hPa
+ 
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Year
+10558,6,Mean,1,1020.8,1019.4,1016.9,1014.1,1015.3,1016,1015.7,1015.6,1016.3,1017.1,1017.5,1019.7,1016.9
+10558,6,NOY,98,17,17,17,17,18,18,17,17,17,17,17,17,18
+ 
+ 
+Parameter_Code,Parameter_Name,Units 
+8,Total_Number_of_Hours_of_Sunshine,hours
+ 
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Year
+10558,8,Sum,4,51,73.4,105.8,165.1,203.6,208.9,204.1,207.2,148.2,103.3,43.9,41.5,1522.6
+10558,8,NOY,98,16,16,16,16,16,15,15,16,16,16,16,16,11
+ 
+ 
+Parameter_Code,Parameter_Name,Units 
+22,Highest_Value_of_Daily_Maximum_Temperature,Deg_C
+ 
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Year
+10558,22,Max,2,8.1,10.2,14.5,20.3,25.1,27.7,28.7,28.4,23.1,18.1,11,8.3,30.7
+10558,22,NOY,98,18,16,18,17,18,17,16,16,17,17,16,17,11
+ 
+ 
+Parameter_Code,Parameter_Name,Units 
+23,Lowest_Value_of_Daily_Minimum_Temperature,Deg_C
+ 
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Year
+10558,23,Min,3,3.4,3.1,6,10.3,14.1,16.5,18.2,17.7,14.1,10.9,6.4,3.5,19.6
+10558,23,NOY,98,18,16,18,17,18,17,16,16,17,17,16,17,11
+ 
+ 
+Parameter_Code,Parameter_Name,Units 
+25,Highest_Wind_Guest,m/s
+ 
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Year
+10558,25,Max,2,21,19.2,20.5,19,18.9,17.2,19.5,16.2,16.8,19.2,18.8,20.9,24.8
+10558,25,NOY,98,17,15,16,16,16,16,16,15,15,15,16,16,3
+ 
+ 

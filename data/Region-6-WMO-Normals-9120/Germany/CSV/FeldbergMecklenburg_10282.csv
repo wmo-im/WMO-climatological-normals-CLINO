@@ -1,0 +1,24 @@
+World Meteorogical Organization Climate Normals for 1991-2020
+Single Station Data Sheet For All Climatological Surface Parameters
+ 
+Station Header Record
+ 
+Country_Name,Germany
+Station_name,Feldberg/Mecklenburg
+ 
+WMO_Number,Latitude,Longitude,Station_Height
+10282,53|19|3|N,13|25|3|E,115.4
+ 
+WMO Integrated Global Observing System (WIGOS) Station Identifier
+!! not available !! 
+ 
+Principal Climatological Surface Parameters
+ 
+Parameter_Code,Parameter_Name,Units 
+6,Mean_Sea_Level_Pressure,hPa
+ 
+WMO_Number,Parameter_Code,Calculation_Name,Calculation_Code,January,February,March,April,May,June,July,August,September,October,November,December,Year
+10282,6,Mean,1,1015.5,1015.2,1014.6,1015.7,1015.6,1015.1,1014.3,1014.5,1016.8,1016.9,1014.1,1015.2,1015.4
+10282,6,NOY,98,15,15,15,15,15,15,15,15,16,16,16,16,16
+ 
+ 
